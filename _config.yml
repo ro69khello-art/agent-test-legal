@@ -1,0 +1,10 @@
+title: AGENT TEST
+description: 「AGENT TEST」の法務文書
+lang: ja
+
+# GitHub Pages に同梱されているテーマ。追加のインストールが要らない。
+theme: jekyll-theme-minimal
+
+# README は配信しない。リポジトリの説明であって、公開ページではない。
+exclude:
+  - README.md
